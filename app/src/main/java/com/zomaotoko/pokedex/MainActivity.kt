@@ -1,4 +1,4 @@
-package com.example.pokedex
+package com.zomaotoko.pokedex
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
