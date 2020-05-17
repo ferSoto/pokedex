@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Pokemon cell in list view -->
+    <dimen name="cell_margin">8dp</dimen>
+    <dimen name="image_size">75dp</dimen>
+</resources>
